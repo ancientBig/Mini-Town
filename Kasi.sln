@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kasiShop", "kasiLibrary\kasiShop.csproj", "{A535B535-946A-4BB2-89F3-7F1C4A62E514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasiShopTest", "KasiShopTest\KasiShopTest.csproj", "{3EC50141-3B34-4C06-BA98-4BBF61ADC913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.KasiLibrary", "1.KasiLibrary\1.KasiLibrary.csproj", "{95A6FE55-486E-47FF-996B-59C50AB6EE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.KasiFactorial", "2.KasiFactorial\2.KasiFactorial.csproj", "{79865761-EAD7-4C06-9769-3631B3B3F00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.KasiStream", "3.KasiStream\3.KasiStream.csproj", "{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.KasiWeather", "KasiWeather\6.KasiWeather.csproj", "{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A535B535-946A-4BB2-89F3-7F1C4A62E514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A535B535-946A-4BB2-89F3-7F1C4A62E514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A535B535-946A-4BB2-89F3-7F1C4A62E514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A535B535-946A-4BB2-89F3-7F1C4A62E514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC50141-3B34-4C06-BA98-4BBF61ADC913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC50141-3B34-4C06-BA98-4BBF61ADC913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC50141-3B34-4C06-BA98-4BBF61ADC913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC50141-3B34-4C06-BA98-4BBF61ADC913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A6FE55-486E-47FF-996B-59C50AB6EE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A6FE55-486E-47FF-996B-59C50AB6EE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A6FE55-486E-47FF-996B-59C50AB6EE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A6FE55-486E-47FF-996B-59C50AB6EE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79865761-EAD7-4C06-9769-3631B3B3F00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79865761-EAD7-4C06-9769-3631B3B3F00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79865761-EAD7-4C06-9769-3631B3B3F00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79865761-EAD7-4C06-9769-3631B3B3F00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DFBA90-6344-47FA-8E9C-70191CC59D8B}
+	EndGlobalSection
+EndGlobal

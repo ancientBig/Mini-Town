@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\kasiLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\helpers\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\helpers\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\1.kasilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|solutionrelative:1.kasilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\helper\\weatherhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|solutionrelative:kasiweather\\helper\\weatherhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\KasiWeather.csproj|solutionrelative:kasiweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79865761-EAD7-4C06-9769-3631B3B3F00A}|2.KasiFactorial\\2.KasiFactorial.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\2.kasifactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79865761-EAD7-4C06-9769-3631B3B3F00A}|2.KasiFactorial\\2.KasiFactorial.csproj|solutionrelative:2.kasifactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\model\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|solutionrelative:kasiweather\\model\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\model\\current.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|solutionrelative:kasiweather\\model\\current.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\6.kasiweather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\6.KasiWeather.csproj|solutionrelative:kasiweather\\6.kasiweather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}|3.KasiStream\\3.KasiStream.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\3.kasistream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}|3.KasiStream\\3.KasiStream.csproj|solutionrelative:3.kasistream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}|3.KasiStream\\3.KasiStream.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\3.kasistream\\producerconsumerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BE601-D02F-4EE1-A13D-5FDE36A962BA}|3.KasiStream\\3.KasiStream.csproj|solutionrelative:3.kasistream\\producerconsumerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\KasiWeather.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasiweather\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B0AD0-8A8C-495C-B4F0-752A3C75506E}|KasiWeather\\KasiWeather.csproj|solutionrelative:kasiweather\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79865761-EAD7-4C06-9769-3631B3B3F00A}|2.KasiFactorial\\2.KasiFactorial.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\2.kasifactorial\\concurrentfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79865761-EAD7-4C06-9769-3631B3B3F00A}|2.KasiFactorial\\2.KasiFactorial.csproj|solutionrelative:2.kasifactorial\\concurrentfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\1.kasilibrary\\entity\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|solutionrelative:1.kasilibrary\\entity\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\1.kasilibrary\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A6FE55-486E-47FF-996B-59C50AB6EE25}|1.KasiLibrary\\1.KasiLibrary.csproj|solutionrelative:1.kasilibrary\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC50141-3B34-4C06-BA98-4BBF61ADC913}|KasiShopTest\\KasiShopTest.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasishoptest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC50141-3B34-4C06-BA98-4BBF61ADC913}|KasiShopTest\\KasiShopTest.csproj|solutionrelative:kasishoptest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC50141-3B34-4C06-BA98-4BBF61ADC913}|KasiShopTest\\KasiShopTest.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasishoptest\\kasishoptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EC50141-3B34-4C06-BA98-4BBF61ADC913}|KasiShopTest\\KasiShopTest.csproj|solutionrelative:kasishoptest\\kasishoptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\persistence\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\persistence\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\kasishop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\kasishop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\helpers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\helpers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\entities\\model\\productupdateinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\entities\\model\\productupdateinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\entities\\model\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\entities\\model\\productinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Migrations\\20251113121420_Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kasiLibrary\\Migrations\\20251113121420_Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\kasishop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\kasishop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\helpers\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\helpers\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\entities\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\entities\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|c:\\users\\user\\source\\repos\\kasilibrary\\kasilibrary\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A535B535-946A-4BB2-89F3-7F1C4A62E514}|kasiLibrary\\kasiShop.csproj|solutionrelative:kasilibrary\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\City.cs",
+              "RelativeDocumentMoniker": "KasiWeather\\City.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\City.cs",
+              "RelativeToolTip": "KasiWeather\\City.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:32:50.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Program.cs",
+              "RelativeDocumentMoniker": "KasiWeather\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Program.cs",
+              "RelativeToolTip": "KasiWeather\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:11:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProducerConsumerQueue.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\3.KasiStream\\ProducerConsumerQueue.cs",
+              "RelativeDocumentMoniker": "3.KasiStream\\ProducerConsumerQueue.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\3.KasiStream\\ProducerConsumerQueue.cs",
+              "RelativeToolTip": "3.KasiStream\\ProducerConsumerQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:03:54.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "1.KasiLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Program.cs",
+              "RelativeToolTip": "1.KasiLibrary\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:23:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "6.KasiWeather.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\6.KasiWeather.csproj",
+              "RelativeDocumentMoniker": "KasiWeather\\6.KasiWeather.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\6.KasiWeather.csproj",
+              "RelativeToolTip": "KasiWeather\\6.KasiWeather.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T14:46:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\3.KasiStream\\Program.cs",
+              "RelativeDocumentMoniker": "3.KasiStream\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\3.KasiStream\\Program.cs",
+              "RelativeToolTip": "3.KasiStream\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:02:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConcurrentFactorial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\2.KasiFactorial\\ConcurrentFactorial.cs",
+              "RelativeDocumentMoniker": "2.KasiFactorial\\ConcurrentFactorial.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\2.KasiFactorial\\ConcurrentFactorial.cs",
+              "RelativeToolTip": "2.KasiFactorial\\ConcurrentFactorial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:54:18.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\2.KasiFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "2.KasiFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\2.KasiFactorial\\Program.cs",
+              "RelativeToolTip": "2.KasiFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:52:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Entity\\Library.cs",
+              "RelativeDocumentMoniker": "1.KasiLibrary\\Entity\\Library.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Entity\\Library.cs",
+              "RelativeToolTip": "1.KasiLibrary\\Entity\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:25:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "1.KasiLibrary\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\1.KasiLibrary\\Entity\\Book.cs",
+              "RelativeToolTip": "1.KasiLibrary\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:53.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Helper\\WeatherHelper.cs",
+              "RelativeDocumentMoniker": "KasiWeather\\Helper\\WeatherHelper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Helper\\WeatherHelper.cs",
+              "RelativeToolTip": "KasiWeather\\Helper\\WeatherHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:18:58.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\ExceptionMiddleWare.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Helpers\\ExceptionMiddleWare.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\ExceptionMiddleWare.cs",
+              "RelativeToolTip": "kasiLibrary\\Helpers\\ExceptionMiddleWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:52:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Model\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "KasiWeather\\Model\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Model\\WeatherResponse.cs",
+              "RelativeToolTip": "KasiWeather\\Model\\WeatherResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:47:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Current.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Model\\Current.cs",
+              "RelativeDocumentMoniker": "KasiWeather\\Model\\Current.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiWeather\\Model\\Current.cs",
+              "RelativeToolTip": "KasiWeather\\Model\\Current.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:48:42.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KasiShopTest",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiShopTest\\KasiShopTest.csproj",
+              "RelativeDocumentMoniker": "KasiShopTest\\KasiShopTest.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiShopTest\\KasiShopTest.csproj",
+              "RelativeToolTip": "KasiShopTest\\KasiShopTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T13:16:50.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiShopTest\\ProductTest.cs",
+              "RelativeDocumentMoniker": "KasiShopTest\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\KasiShopTest\\ProductTest.cs",
+              "RelativeToolTip": "KasiShopTest\\ProductTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:46:00.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductUpdateInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductUpdateInputModel.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Entities\\Model\\ProductUpdateInputModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductUpdateInputModel.cs",
+              "RelativeToolTip": "kasiLibrary\\Entities\\Model\\ProductUpdateInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:38:08.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\DataContext.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Helpers\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\DataContext.cs",
+              "RelativeToolTip": "kasiLibrary\\Helpers\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:41:25.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "kasiLibrary\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:35:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Program.cs",
+              "RelativeToolTip": "kasiLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:27:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Service\\ProductService.cs",
+              "RelativeToolTip": "kasiLibrary\\Service\\ProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:50:17.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Service\\IProductService.cs",
+              "RelativeToolTip": "kasiLibrary\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:23:50.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "kasiShop.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\kasiShop.http",
+              "RelativeDocumentMoniker": "kasiLibrary\\kasiShop.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\kasiShop.http",
+              "RelativeToolTip": "kasiLibrary\\kasiShop.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-13T10:55:40.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Persistence\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Persistence\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Persistence\\ProductConfiguration.cs",
+              "RelativeToolTip": "kasiLibrary\\Persistence\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:04:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "kasiLibrary\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\appsettings.Development.json",
+              "RelativeToolTip": "kasiLibrary\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T12:43:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "kasiLibrary\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Properties\\launchSettings.json",
+              "RelativeToolTip": "kasiLibrary\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T10:55:57.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductInputModel.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Entities\\Model\\ProductInputModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductInputModel.cs",
+              "RelativeToolTip": "kasiLibrary\\Entities\\Model\\ProductInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:54:14.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "kasiShop",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\kasiShop.csproj",
+              "RelativeDocumentMoniker": "kasiLibrary\\kasiShop.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\kasiShop.csproj",
+              "RelativeToolTip": "kasiLibrary\\kasiShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T10:47:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Product.cs",
+              "RelativeToolTip": "kasiLibrary\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABQwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:38:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\AppException.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Helpers\\AppException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Helpers\\AppException.cs",
+              "RelativeToolTip": "kasiLibrary\\Helpers\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:39:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "rd3umozo.sql ",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql",
+              "RelativeDocumentMoniker": "kasiLibrary\\obj\\Debug\\net8.0\\rd3umozo.sql",
+              "ToolTip": "rd3umozo.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-13T11:50:49.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251113121420_Start.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Migrations\\20251113121420_Start.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Migrations\\20251113121420_Start.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Migrations\\20251113121420_Start.cs",
+              "RelativeToolTip": "kasiLibrary\\Migrations\\20251113121420_Start.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:14:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "kasiLibrary\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\appsettings.json",
+              "RelativeToolTip": "kasiLibrary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T08:33:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductDto.cs",
+              "RelativeDocumentMoniker": "kasiLibrary\\Entities\\Model\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\kasiLibrary\\kasiLibrary\\Entities\\Model\\ProductDto.cs",
+              "RelativeToolTip": "kasiLibrary\\Entities\\Model\\ProductDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:16:44.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

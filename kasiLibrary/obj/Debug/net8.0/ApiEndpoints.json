@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "kasiShop.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "Product/v1/add-product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "kasiShop.Entities.Model.ProductInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "kasiShop.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "Product/v1/get-product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "kasiShop.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "Product/v1/remove-product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "kasiShop.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "Product/v1/update-product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "kasiShop.Entities.Model.ProductUpdateInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

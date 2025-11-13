@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.AssemblyInfo.cs
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\bin\Debug\net8.0\6.KasiWeather.exe
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\bin\Debug\net8.0\6.KasiWeather.deps.json
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\bin\Debug\net8.0\6.KasiWeather.runtimeconfig.json
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\bin\Debug\net8.0\6.KasiWeather.dll
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\bin\Debug\net8.0\6.KasiWeather.pdb
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.dll
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\refint\6.KasiWeather.dll
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.pdb
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\6.KasiWeather.genruntimeconfig.cache
+C:\Users\user\source\repos\kasiLibrary\KasiWeather\obj\Debug\net8.0\ref\6.KasiWeather.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\bin\Debug\net8.0\2.KasiFactorial.exe
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\bin\Debug\net8.0\2.KasiFactorial.deps.json
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\bin\Debug\net8.0\2.KasiFactorial.runtimeconfig.json
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\bin\Debug\net8.0\2.KasiFactorial.dll
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\bin\Debug\net8.0\2.KasiFactorial.pdb
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.AssemblyInfo.cs
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.dll
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\refint\2.KasiFactorial.dll
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.pdb
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\2.KasiFactorial.genruntimeconfig.cache
+C:\Users\user\source\repos\kasiLibrary\2.KasiFactorial\obj\Debug\net8.0\ref\2.KasiFactorial.dll
